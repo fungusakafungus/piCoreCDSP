@@ -154,6 +154,7 @@ python3 -m pip install --upgrade pip
 pip install websocket_client aiohttp jsonschema setuptools
 pip install git+https://github.com/HEnquist/pycamilladsp.git@v1.0.0
 pip install git+https://github.com/HEnquist/pycamilladsp-plot.git@v1.0.2
+pip install paho-mqtt
 deactivate # deactivate custom python environment
 wget https://github.com/HEnquist/camillagui-backend/releases/download/v1.0.1/camillagui.zip
 unzip camillagui.zip
